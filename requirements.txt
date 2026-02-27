@@ -1,5 +1,4 @@
-pandas 
-streamlit
-altair<5
-pyarrow<15
-numpy<2
+pandas
+streamlit>=1.32.0
+altair
+pyarrow
